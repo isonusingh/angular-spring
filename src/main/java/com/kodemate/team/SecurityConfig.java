@@ -1,4 +1,4 @@
-package com.sonu.learning;
+package com.kodemate.team;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

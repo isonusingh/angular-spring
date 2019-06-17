@@ -1,4 +1,4 @@
-package com.sonu.learning.model;
+package com.kodemate.team.model;
 
 public class Employee {
     private String empId;
